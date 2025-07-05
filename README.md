@@ -23,8 +23,9 @@ actionable format.
 - Slicers
 
   ### Projet Analysis_Amazon case study
+[Amazon.Case.Study.Report.Case.1 (1).pdf](https://github.com/user-attachments/files/21081929/Amazon.Case.Study.Report.Case.1.1.pdf)
 
-1. [Amazon Case Study Report Case 1.pdf](https://github.com/user-attachments/files/21081769/Amazon.Case.Study.Report.Case.1.pdf)
+1. 
 
 2. [Amazon case study.xlsx](https://github.com/user-attachments/files/21081775/Amazon.case.study.xlsx)
 
