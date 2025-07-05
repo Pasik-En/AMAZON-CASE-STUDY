@@ -22,17 +22,10 @@ actionable format.
 - Pivot Table- Charts
 - Slicers
 
-  ### Projet Results_Amazon case study
+  ### Projet Analysis_Amazon case study
 
-  1. Amazon Study [download here]{https://m365.cloud.microsoft/}
-  2. Amazon Reort [download here]{https://m365.cloud.microsoft/}
-  3. Copy of Amazon [download here]{https://m365.cloud.microsoft/}
+1. [Amazon Case Study Report Case 1.pdf](https://github.com/user-attachments/files/21081769/Amazon.Case.Study.Report.Case.1.pdf)
 
+2. [Amazon case study.xlsx](https://github.com/user-attachments/files/21081775/Amazon.case.study.xlsx)
 
-
-
-
-  
-
-
-
+3. [Copy of Amazon_case_study(1).xlsx](https://github.com/user-attachments/files/21081780/Copy.of.Amazon_case_study.1.xlsx)
