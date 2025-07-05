@@ -16,5 +16,10 @@ evaluating pricing strategies, and understanding customer feedback. The analysis
 Microsoft Excel for data processing and visualization, with results presented in a clear and
 actionable format.
 
+#### Tools Used
+
+- Microsoft excel
+- Pivot Table
+
 
 
