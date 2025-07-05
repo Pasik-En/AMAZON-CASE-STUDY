@@ -19,7 +19,20 @@ actionable format.
 #### Tools Used
 
 - Microsoft excel
-- Pivot Table
+- Pivot Table- Charts
+- Slicers
+
+  ### Projet Results_Amazon case study
+
+[Amazon case study.xlsx](https://github.com/user-attachments/files/21080652/Amazon.case.study.xlsx)
+
+[Amazon Case Study Report Case 1.pdf](https://github.com/user-attachments/files/21080661/Amazon.Case.Study.Report.Case.1.pdf)
+
+[Copy of Amazon_case_study(1).xlsx](https://github.com/user-attachments/files/21080677/Copy.of.Amazon_case_study.1.xlsx)
+
+
+
+  
 
 
 
