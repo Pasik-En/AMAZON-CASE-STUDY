@@ -23,10 +23,11 @@ actionable format.
 - Slicers
 
   ### Projet Analysis_Amazon case study
-[Amazon.Case.Study.Report.Case.1 (1).pdf](https://github.com/user-attachments/files/21081929/Amazon.Case.Study.Report.Case.1.1.pdf)
 
-1. 
+[Amazon.Case.Study.Report.Case.1 (1).pdf](https://github.com/user-attachments/files/21082066/Amazon.Case.Study.Report.Case.1.1.pdf)
 
-2. [Amazon case study.xlsx](https://github.com/user-attachments/files/21081775/Amazon.case.study.xlsx)
+[Amazon.case.study.xlsx](https://github.com/user-attachments/files/21082067/Amazon.case.study.xlsx)
 
-3. [Copy of Amazon_case_study(1).xlsx](https://github.com/user-attachments/files/21081780/Copy.of.Amazon_case_study.1.xlsx)
+[Copy of Amazon_case_study(1).xlsx](https://github.com/user-attachments/files/21082115/Copy.of.Amazon_case_study.1.xlsx)
+
+
