@@ -24,11 +24,11 @@ actionable format.
 
   ### Projet Results_Amazon case study
 
-[Amazon case study.xlsx](https://github.com/user-attachments/files/21080652/Amazon.case.study.xlsx)
+  1. Amazon Study [download here]{https://m365.cloud.microsoft/}
+  2. Amazon Reort [download here]{https://m365.cloud.microsoft/}
+  3. Copy of Amazon [download here]{https://m365.cloud.microsoft/}
 
-[Amazon Case Study Report Case 1.pdf](https://github.com/user-attachments/files/21080661/Amazon.Case.Study.Report.Case.1.pdf)
 
-[Copy of Amazon_case_study(1).xlsx](https://github.com/user-attachments/files/21080677/Copy.of.Amazon_case_study.1.xlsx)
 
 
 
