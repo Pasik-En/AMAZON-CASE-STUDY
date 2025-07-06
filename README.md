@@ -31,3 +31,16 @@ actionable format.
 [Copy of Amazon_case_study(1).xlsx](https://github.com/user-attachments/files/21082115/Copy.of.Amazon_case_study.1.xlsx)
 
 
+![Screenshot (10)](https://github.com/user-attachments/assets/93d0b213-be1d-41bf-b80b-b15413b26af8)
+
+
+![Screenshot (11)](https://github.com/user-attachments/assets/03b11c75-a3cd-4c63-81d7-a6d0dba89a2b)
+
+
+![Screenshot (12)](https://github.com/user-attachments/assets/057e1323-f48d-48ba-8324-fd16e964dd89)
+
+
+![Screenshot (13)](https://github.com/user-attachments/assets/ade75bd8-d558-4ed6-b605-323392b3c573)
+
+
+
