@@ -42,5 +42,9 @@ actionable format.
 
 ![Screenshot (13)](https://github.com/user-attachments/assets/ade75bd8-d558-4ed6-b605-323392b3c573)
 
+Linkedin: www.linkedin.com/in/paschal-ikenna-395a1a229
 
+Email: pikenna71@gmail.com
+
+Contact:+2347035349699
 
